@@ -196,6 +196,11 @@ babel-runtime@^6.23.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
+babel@^6.23.0:
+  version "6.23.0"
+  resolved "https://registry.yarnpkg.com/babel/-/babel-6.23.0.tgz#d0d1e7d803e974765beea3232d4e153c0efb90f4"
+  integrity sha1-0NHn2APpdHZb7qMjLU4VPA77kPQ=
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -3081,10 +3086,10 @@ sequelize-pool@^2.3.0:
   resolved "https://registry.yarnpkg.com/sequelize-pool/-/sequelize-pool-2.3.0.tgz#64f1fe8744228172c474f530604b6133be64993d"
   integrity sha512-Ibz08vnXvkZ8LJTiUOxRcj1Ckdn7qafNZ2t59jYHMX1VIebTAOYefWdRYFt6z6+hy52WGthAHAoLc9hvk3onqA==
 
-sequelize@^5.9.4:
-  version "5.9.4"
-  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-5.9.4.tgz#70af68085dee0ff1da220a719be549bd3e892600"
-  integrity sha512-smkcfCYn9X6DA6iaXmZBYui8GqpHcYe/nKImSJ592RdHzpIajyhkSEXQLMtxrO0YiUKqHTTcK9Twp9uUBsj1Rg==
+sequelize@^5.10.3:
+  version "5.10.3"
+  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-5.10.3.tgz#a4bafc3c540f1fa1a28752b9f8cdfacbba025715"
+  integrity sha512-Eabksjfb2kuX/a/7Mt2iHneos0PZxP5f74bdm1ktiG3Y9utfevNr+nIZ0sCvQW6jbJFwNtiLndTxUsNgYK8qpg==
   dependencies:
     bluebird "^3.5.0"
     cls-bluebird "^2.1.0"
