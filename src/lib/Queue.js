@@ -9,7 +9,7 @@ class Queue {
     this.init();
   }
 
-  int() {
+  init() {
     jobs.forEach(({ key, handle }) => {
       this.queues[key] = {
         bee: new Bee(key, {
